@@ -1,0 +1,16 @@
+[book]
+authors = ["mjiee"]
+language = "en"
+multilingual = false
+src = "src"
+title = "go notes"
+description="go学习笔记"
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://gitee.com/mjiee/gonotes.git"
+git-repository-icon = "fa-github"
+edit-url-template = "https://gitee.com/mjiee/gonotes/edit/master/{path}"
+site-url = "/go/"
+cname="book.mjiee.top"
+input-404 = "assets/404.md"
