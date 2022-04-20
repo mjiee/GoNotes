@@ -14,3 +14,7 @@ edit-url-template = "https://gitee.com/mjiee/gonotes/edit/master/{path}"
 site-url = "/go/"
 cname="book.mjiee.top"
 input-404 = "assets/404.md"
+
+[output.html.fold]
+enable = true
+level = 0
