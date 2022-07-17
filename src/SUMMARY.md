@@ -75,7 +75,7 @@
   - [2.3 graphql](frame/2-web-fu-wu/2.3-graphql.md)
   - [2.4 jwt](frame/2-web-fu-wu/2.4-jwt.md)
 - [3 微服务](frame/3-wei-fu-wu/README.md)
-  - [3.1 protobuf](frame/3-wei-fu-wu/3.1-protubuf.md)
+  - [3.1 protobuf](frame/3-wei-fu-wu/3.1-protobuf.md)
   - [3.2 grpc](frame/3-wei-fu-wu/3.2-grpc.md)
 
 # Project
